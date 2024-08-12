@@ -1,4 +1,4 @@
-### Data Generation Book GitHub
+### Data Generation GitHub
 <!--
 **datageneration/datageneration** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
